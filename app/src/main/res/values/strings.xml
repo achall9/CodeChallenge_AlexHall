@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DisneyCodeChallenge_AlexHall</string>
+    <string name="select_guests">Select Guests</string>
+    <string name="dale_gibson">Dale Gibson</string>
+    <string name="continues">Continue</string>
+    <string name="at_least_msg">At least one Guest in the party must have a reservation. Guests without reservations must remain in the same booking party in order to enter.</string>
+    <string name="these_guests_need_reservations">These Guests Need Reservations</string>
+    <string name="these_guests_have_reservations">These Guests Have Reservations</string>
+    <string name="conflict_screen">Conflict Screen</string>
+    <string name="confirmation_screen">Confirmation Screen</string>
+    <string name="reservation_needed">Reservation Needed</string>
+    <string name="select_at_least_one_guest_that_has_a_reservation_to_continue">Select at least one Guest that has a reservation to continue.</string>
+</resources>
